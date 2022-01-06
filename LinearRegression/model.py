@@ -1,3 +1,6 @@
+from eval import mse, score, multiple_preds, pred
+from jax import grad, jit, random, tree_multimap
+
 class LinearRegression:
   
   def train(self, x_data, y_data, num_steps=1000, step_size=0.01, display_info_step=100):
