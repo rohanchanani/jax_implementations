@@ -1,1 +1,3 @@
-*_env/
+jax_flax/
+jax/
+*bazel_rohanchanani/
