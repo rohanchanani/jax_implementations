@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 pip
 jax
 pandas
+=======
+jax
+>>>>>>> 3f0ff231053bccdc029852161231df96bb2ccf74
 numpy
 scikit-learn
