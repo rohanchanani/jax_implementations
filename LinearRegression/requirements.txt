@@ -1,3 +1,5 @@
+pip
 jax
+pandas
 numpy
 scikit-learn
